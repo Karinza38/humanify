@@ -1,4 +1,4 @@
-# HumanifyJS
+ # HumanifyJS
 > Deobfuscate Javascript code using LLMs ("AI")
 
 This tool uses large language modeles (like ChatGPT & llama) and other tools to
