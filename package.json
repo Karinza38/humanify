@@ -47,7 +47,7 @@
   "author": "Jesse Luoto",
   "license": "MIT",
   "dependencies": {
-    "@babel/core": "^7.25.2",
+    "@babel/core": "^7.26.10",
     "@babel/types": "^7.25.2",
     "@google/generative-ai": "^0.20.0",
     "@types/babel__core": "^7.20.5",
